@@ -1,0 +1,16 @@
+{
+  "name": "Compress-files",
+  "version": "0.0.1",
+  "description": "Compress Javascript and css files with node minify",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "betapcode@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "flags": "^0.1.3",
+    "node-minify": "^2.4.1"
+  }
+}
